@@ -1,4 +1,4 @@
-# Customized_Optimizing_McDonald-smeal_Application-
+# APPLICATION FOR OPTIMIZING MCDONALD’S MEAL
 
 A project for the Advanced Programming course, the Spring 2022 semester.
 
